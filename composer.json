@@ -1,0 +1,8 @@
+{
+    "name": "myproject/laravel-starter",
+    "description": "Laravel starter for waterfall model",
+    "require": {
+        "php": "^8.2",
+        "laravel/framework": "^10.0"
+    }
+}
